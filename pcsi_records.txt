@@ -1,0 +1,3 @@
+(4:rule(6:source|79mSrC6G+5sbcfCm73CHdSNgnguckXiBJKDn0R03sno=|)(9:timestamp10:1747273726)(7:pattern28:https?://(www\.)?bbc\.com/.*)(11:script-hash|CY7Iwrrw5i7MyjV7Zqdwf2Tj0Hb3iCsJF4Sv6jcrUyw=|)(11:object-type7:article))
+(9:inference(6:source|79mSrC6G+5sbcfCm73CHdSNgnguckXiBJKDn0R03sno=|)(9:timestamp10:1747273726)(3:url46:https://www.bbc.com/news/articles/c8e6wj07xlno)(11:script-hash|CY7Iwrrw5i7MyjV7Zqdwf2Tj0Hb3iCsJF4Sv6jcrUyw=|)(11:object-type7:article)(11:object-hash|GltN0SDXTWRgsZtMMopsqL8KivcPGEbJuluZmfWBMjY=|))
+(10:perception(6:source|79mSrC6G+5sbcfCm73CHdSNgnguckXiBJKDn0R03sno=|)(9:timestamp10:1747273727)(3:url46:https://www.bbc.com/news/articles/c8e6wj07xlno)(11:object-type7:article)(11:object-hash|GltN0SDXTWRgsZtMMopsqL8KivcPGEbJuluZmfWBMjY=|)(5:valid1:1))
